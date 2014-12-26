@@ -1,5 +1,3 @@
-external ( |> ) : 'a -> ('a -> 'b) -> 'b = "%revapply"
-
 (* 
  * val read_eval_print_loop : unit -> unit
  * 導出システムEvalML3のREPL
